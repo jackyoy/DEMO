@@ -1,0 +1,555 @@
+    /*導覽列設定*/
+    
+    nav {
+        width: 1920px;
+        height: 200px;
+        background-color: white;
+        position: fixed;
+        height: 100px;
+    }
+    
+    .nav-p {
+        width: 298px;
+        height: 72px;
+        float: left;
+    }
+    
+    nav li {
+        list-style-type: none;
+    }
+    /*導覽列按鈕設定*/
+    
+    .home {
+        position: relative;
+        left: 100px;
+        top: 30px;
+    }
+    
+    .blog {
+        position: relative;
+        left: 200px;
+        top: 12px;
+    }
+    
+    .faont-page {
+        position: relative;
+        left: 300px;
+        top: -6px;
+    }
+    
+    .about-the-tests {
+        position: relative;
+        left: 450px;
+        top: -24px;
+    }
+    
+    .level-1 {
+        position: relative;
+        left: 900px;
+        top: -41px;
+    }
+    
+    .lorem {
+        position: relative;
+        left: 1020px;
+        top: -58px;
+    }
+    /*第一頁設定*/
+    
+    .page-1 {
+        background-image: url(../images/1.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 1920px;
+        height: 1080px;
+    }
+    
+    .page-font1 {
+        text-align: center;
+        padding-top: 550px;
+        font-size: 80px;
+        color: white;
+    }
+    
+    .page-font2 {
+        text-align: center;
+        padding-top: 50px;
+        font-size: 25px;
+        color: white;
+    }
+    
+    .page-font3 {
+        width: 300px;
+        height: 50px;
+        margin: auto;
+        text-align: center;
+        padding-top: 10px;
+        float: left;
+        right: 140px;
+        top: 730px;
+        font-size: 25px;
+        color: white;
+        border: 1px solid white;
+        margin: 10px 640px;
+    }
+    
+    .page-font4 {
+        width: 300px;
+        height: 50px;
+        margin: auto;
+        text-align: center;
+        padding-top: 10px;
+        float: left;
+        left: 1000px;
+        top: 730px;
+        font-size: 25px;
+        color: white;
+        border: 1px solid #745BFD;
+        background-color: #745BFD;
+        margin: -60px 960px;
+    }
+    /*第二頁設定*/
+    
+    .page-2 {
+        background-color: white;
+        width: 1920px;
+        height: 540px;
+    }
+    
+    .page2-p {
+        width: 500px;
+        height: 346.5px;
+        float: left;
+        margin: 50px 550px;
+    }
+    
+    .page2-h {
+        float: right;
+        margin: -300px 550px;
+    }
+    
+    .page2-pr {
+        float: right;
+        width: 300px;
+        margin: -250px 390px;
+    }
+    
+    .page2-p2 {
+        width: 300px;
+        height: 50px;
+        margin: auto;
+        text-align: center;
+        padding-top: 10px;
+        float: left;
+        left: 1000px;
+        top: 730px;
+        font-size: 25px;
+        color: white;
+        border: 1px solid #745BFD;
+        background-color: #745BFD;
+        margin: -100px 1230px;
+    }
+    /*第三頁設定*/
+    
+    .page-3 {
+        background-color: #F5F5F5;
+        width: 1920px;
+        height: 540px;
+    }
+    
+    .page3-h {
+        float: left;
+        margin: 150px 300px;
+    }
+    
+    .page3-pr {
+        float: left;
+        width: 400px;
+        margin: 200px -470px;
+    }
+    
+    .page3-p {
+        width: 300px;
+        height: 50px;
+        margin: auto;
+        text-align: center;
+        padding-top: 10px;
+        float: left;
+        font-size: 25px;
+        color: white;
+        border: 1px solid #745BFD;
+        background-color: #745BFD;
+        margin: 290px -470px;
+    }
+    
+    .page3-ps {
+        width: 500px;
+        height: 346.5px;
+        float: right;
+        margin: -250px 550px;
+    }
+    /*第四頁設定*/
+    
+    .page-4 {
+        background-image: url(../images/7.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 1920px;
+        height: 427px;
+    }
+    
+    .page4-h {
+        text-align: center;
+        padding-top: 80px;
+        font-size: 50px;
+        color: white;
+    }
+    
+    .page4-p {
+        padding-top: 10px;
+        text-align: center;
+        width: 950px;
+        color: white;
+        margin: 20px 550px;
+    }
+    
+    .page4-p2 {
+        width: 300px;
+        height: 50px;
+        margin: auto;
+        text-align: center;
+        padding-top: 10px;
+        float: left;
+        font-size: 25px;
+        color: white;
+        border: 1px solid #745BFD;
+        background-color: #745BFD;
+        margin: 50px 850px;
+    }
+    /*第五頁設定*/
+    
+    .page-5 {
+        background-color: #F5F5F5;
+        width: 1920px;
+        height: 1156px;
+    }
+    
+    .page5-h {
+        padding-top: 80px;
+        text-align: center;
+        width: 1920px;
+        font-size: 40px;
+        color: black;
+    }
+    
+    .page5-p {
+        padding-top: 10px;
+        text-align: center;
+        width: 950px;
+        color: black;
+        margin: 20px 550px;
+    }
+    
+    .page5-p2 {
+        width: 300px;
+        height: 50px;
+        margin: auto;
+        text-align: center;
+        padding-top: 10px;
+        float: left;
+        font-size: 25px;
+        color: white;
+        border: 1px solid #745BFD;
+        background-color: #745BFD;
+        margin: 20px 850px;
+    }
+    
+    .page5-pr {
+        margin: 0px 360px;
+    }
+    /*第六頁設定*/
+    
+    .page-6 {
+        background-color: #0E0F14;
+        width: 1920px;
+        height: 1168px;
+    }
+    
+    .page6-h {
+        padding-top: 80px;
+        text-align: center;
+        width: 1920px;
+        font-size: 30px;
+        color: white;
+    }
+    
+    .page6-p {
+        padding-top: 10px;
+        text-align: center;
+        width: 950px;
+        color: white;
+        margin: 20px 520px;
+    }
+    
+    .page-pr {
+        width: auto;
+        height: auto;
+        max-width: 24%;
+        max-height: 24%;
+        padding-right: 0px;
+    }
+    /*第七頁設定*/
+    
+    .page-7 {
+        background-image: url(../images/18.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 1920px;
+        height: 600px;
+    }
+    
+    .page7-h {
+        padding-top: 80px;
+        text-align: center;
+        width: 1920px;
+        font-size: 30px;
+        color: white;
+    }
+    
+    .page7-p {
+        padding-top: 10px;
+        text-align: center;
+        width: 950px;
+        color: white;
+        margin: 20px 450px;
+    }
+    
+    .page7-pr {
+        width: 150px;
+        height: 150px;
+        margin: 0px 850px;
+        border-radius: 100px;
+    }
+    /*第八頁設定*/
+    
+    .page-8 {
+        background-color: white;
+        width: 1920px;
+        height: 300px;
+    }
+    
+    .page8-h {
+        padding-top: 80px;
+        text-align: center;
+        width: 1920px;
+        font-size: 30px;
+        color: black;
+    }
+    
+    .page8-pr {
+        width: auto;
+        height: auto;
+        max-width: 20%;
+        max-height: 20%;
+        float: left;
+        margin: 20px 620px;
+    }
+    
+    .page8-pr2 {
+        width: auto;
+        height: auto;
+        max-width: 20%;
+        max-height: 20%;
+        float: left;
+        margin: 20px -550px;
+    }
+    
+    .page8-pr3 {
+        width: auto;
+        height: auto;
+        max-width: 20%;
+        max-height: 20%;
+        float: left;
+        margin: 20px -400px;
+    }
+    
+    .page8-pr4 {
+        width: auto;
+        height: auto;
+        max-width: 20%;
+        max-height: 20%;
+        float: left;
+        float: left;
+        margin: 20px -250px;
+    }
+    /*第九頁設定*/
+    
+    .page-9 {
+        background-color: #F5F5F5;
+        width: 1920px;
+        height: 200px;
+    }
+    
+    .page9-h {
+        float: left;
+        width: 580px;
+        font-size: 30px;
+        color: black;
+        margin: 60px 550px;
+    }
+    
+    .page9-p {
+        width: 300px;
+        height: 50px;
+        margin: auto;
+        text-align: center;
+        padding-top: 10px;
+        float: left;
+        font-size: 25px;
+        color: white;
+        border: 1px solid #745BFD;
+        background-color: #745BFD;
+        margin: 50px -490px;
+    }
+    /*第十頁設定*/
+    
+    .page-10 {
+        background-color: black;
+        width: 1920px;
+        height: 150px;
+    }
+    
+    .page10-p {
+        color: #cccccc;
+        float: left;
+        margin: 50px 350px;
+        font-size: 20px;
+    }
+    /*超連結設定    */
+    
+    a:link {
+        color: white;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+
+/*視窗大小設定*/
+
+@media screen and (max-width:767px) {
+    .col-sm-1 {
+        width: calc( 100% * 1 / 12);
+    }
+    .col-sm-2 {
+        width: calc( 100% * 2 / 12);
+    }
+    .col-sm-3 {
+        width: calc( 100% * 3 / 12);
+    }
+    .col-sm-4 {
+        width: calc( 100% * 4 / 12);
+    }
+    .col-sm-5 {
+        width: calc( 100% * 5 / 12);
+    }
+    .col-sm-6 {
+        width: calc( 100% * 6 / 12);
+    }
+    .col-sm-7 {
+        width: calc( 100% * 7 / 12);
+    }
+    .col-sm-8 {
+        width: calc( 100% * 8 / 12);
+    }
+    .col-sm-9 {
+        width: calc( 100% * 9 / 12);
+    }
+    .col-sm-10 {
+        width: calc( 100% * 10 / 12);
+    }
+    .col-sm-11 {
+        width: calc( 100% * 11 / 12);
+    }
+    .col-sm-12 {
+        width: calc( 100% * 12 / 12);
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .col-md-1 {
+        width: calc( 100% * 1 / 12);
+    }
+    .col-md-2 {
+        width: calc( 100% * 2 / 12);
+    }
+    .col-md-3 {
+        width: calc( 100% * 3 / 12);
+    }
+    .col-md-4 {
+        width: calc( 100% * 4 / 12);
+    }
+    .col-md-5 {
+        width: calc( 100% * 5 / 12);
+    }
+    .col-md-6 {
+        width: calc( 100% * 6 / 12);
+    }
+    .col-md-7 {
+        width: calc( 100% * 7 / 12);
+    }
+    .col-md-8 {
+        width: calc( 100% * 8 / 12);
+    }
+    .col-md-9 {
+        width: calc( 100% * 9 / 12);
+    }
+    .col-md-10 {
+        width: calc( 100% * 10 / 12);
+    }
+    .col-md-11 {
+        width: calc( 100% * 11 / 12);
+    }
+    .col-md-12 {
+        width: calc( 100% * 12 / 12);
+    }
+}
+
+@media screen and (min-width:992px) {
+    .col-lg-1 {
+        width: calc( 100% * 1 / 12);
+    }
+    .col-lg-2 {
+        width: calc( 100% * 2 / 12);
+    }
+    .col-lg-3 {
+        width: calc( 100% * 3 / 12);
+    }
+    .col-lg-4 {
+        width: calc( 100% * 4 / 12);
+    }
+    .col-lg-5 {
+        width: calc( 100% * 5 / 12);
+    }
+    .col-lg-6 {
+        width: calc( 100% * 6 / 12);
+    }
+    .col-lg-7 {
+        width: calc( 100% * 7 / 12);
+    }
+    .col-lg-8 {
+        width: calc( 100% * 8 / 12);
+    }
+    .col-lg-9 {
+        width: calc( 100% * 9 / 12);
+    }
+    .col-lg-10 {
+        width: calc( 100% * 10 / 12);
+    }
+    .col-lg-11 {
+        width: calc( 100% * 11 / 12);
+    }
+    .col-lg-12 {
+        width: calc( 100% * 12 / 12);
+    }
+}

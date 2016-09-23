@@ -1,0 +1,80 @@
+/*導覽列設定*/
+
+.text {
+    font-size: 20px;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.nav {
+    background-color: deeppink;
+}
+
+.item {
+    float: right;
+    text-align: center;
+}
+
+
+/*第一欄背景文字設定*/
+
+.background {
+    background-image: url(https://unsplash.it/1920/?random);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+}
+
+.title {
+    color: fuchsia;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.post {
+    color: white;
+    width: 500;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn-1 {
+    color: deeppink;
+    background-color: darkmagenta;
+    margin: 8% 43%;
+}
+
+
+/*第二欄文字背景設定*/
+
+.section {
+    background-color: rgb(245, 245, 245);
+}
+
+.title2 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.post2 {
+    width: 500;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+
+.title3 {
+        font-size: 40px;
+    text-align: center;
+}
+
+
+.post3 {
+
+    text-align: center;
+
+}

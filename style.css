@@ -1,0 +1,92 @@
+/*超連結設定*/
+
+a:link {
+    color: #eae100;
+}
+
+a:visited {
+    color: #00BB00;
+}
+
+a:hover {
+    color: #ffa8cd;
+}
+
+a:active {
+    color: #0000BB;
+}
+
+
+/*第一欄設定*/
+
+.background {
+    background-image: url(https://hd.unsplash.com/photo-1427464407917-c817c9a0a6f6);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.titleHeader {
+    font-size: 50px;
+    font-family: "標楷體";
+}
+
+.titleColor {
+    font-family: "微軟正黑體";
+}
+
+
+/*暫時*/
+
+
+/*第二欄位設定*/
+
+.workPicture {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.titlePost {
+    padding-top: 10px;
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "標楷體";
+}
+
+.containerMargin {
+    margin-top: 10px;
+}
+
+.postPadding-top {
+    padding-top: 30px;
+    text-align: center;
+    color: crimson;
+    font-family: "微軟正黑體";
+}
+
+
+/*第三欄位設定*/
+
+.self-introduction {
+    font-family: "微軟正黑體";
+    margin: 0 auto;
+    text-align: center;
+    color: dark;
+    /*background: linear-gradient(#9e9eff, #ffba8d); */
+    background-image: url(https://hd.unsplash.com/photo-1448960968772-b63b3f40dfc1);
+}
+
+.ans {
+    display: none;
+    font-size: 40px;
+    font-family: "標楷體";
+    text-align: left;
+}

@@ -1,0 +1,178 @@
+/*最外框設定*/
+
+.out {
+    border: 1px solid #9D9387;
+    width: 319px;
+    height: 649px;
+    position: fixed;
+    left: 211px;
+    top: 46px;
+    border-radius: 44px;
+    background-color: #D6CCB3;
+}
+
+
+/*第二層外框設定*/
+
+.out2 {
+    border: 1px solid #9FA1A3;
+    width: 310px;
+    height: 640px;
+    position: fixed;
+    left: 216px;
+    top: 51px;
+    border-radius: 40px;
+    background-color: #F5F5F5;
+}
+
+
+/*圓點設定*/
+
+.Round {
+    border: 1px solid #9FA1A3;
+    width: 11px;
+    height: 11px;
+    position: fixed;
+    left: 321px;
+    top: 80px;
+    border-radius: 100px;
+    background-color: #181715;
+}
+
+.Round-top {
+    border: 1px solid #9FA1A3;
+    width: 7px;
+    height: 7px;
+    position: fixed;
+    left: 368px;
+    top: 64px;
+    border-radius: 100px;
+    background-color: #181715;
+}
+
+
+/*黑線設定*/
+
+.line {
+    border: 1px solid black;
+    width: 43px;
+    height: 3px;
+    position: fixed;
+    left: 350px;
+    top: 85px;
+    border-radius: 100px;
+    background-color: black;
+}
+
+
+/*按鈕設定*/
+
+.button-right {
+    border: 1px solid #E0D6CC;
+    width: 4px;
+    height: 43px;
+    position: fixed;
+    left: 530px;
+    top: 170px;
+    border-radius: 0px 100px 100px 0px;
+    background-color: #E0D6CC;
+}
+
+.button-left1 {
+    border: 1px solid #F0EDE4;
+    width: 4px;
+    height: 22px;
+    position: fixed;
+    left: 207px;
+    top: 123px;
+    border-radius: 100px 0px 0px 100px;
+    background-color: #F0EDE4;
+}
+
+.button-left2 {
+    border: 1px solid #F0EDE4;
+    width: 4px;
+    height: 43px;
+    position: fixed;
+    left: 207px;
+    top: 170px;
+    border-radius: 100px 0px 0px 100px;
+    background-color: #F0EDE4;
+}
+
+.button-left3 {
+    border: 1px solid #F0EDE4;
+    width: 4px;
+    height: 43px;
+    position: fixed;
+    left: 207px;
+    top: 222px;
+    border-radius: 100px 0px 0px 100px;
+    background-color: #F0EDE4;
+}
+
+.BigBound {
+    border: 3px solid #C9C0B9;
+    width: 45px;
+    height: 45px;
+    position: fixed;
+    left: 348px;
+    top: 631px;
+    border-radius: 100px;
+}
+
+
+/*黑框設定*/
+
+.black {
+    border: 1px solid black;
+    width: 288px;
+    height: 506px;
+    position: fixed;
+    left: 227px;
+    top: 117px;
+    background-color: black;
+}
+
+
+/*白點設定*/
+
+.white {
+    border: 1px solid white;
+    width: 4px;
+    height: 10px;
+    position: fixed;
+    left: 212px;
+    top: 639px;
+    background-color: white;
+}
+
+.white2 {
+    border: 1px solid white;
+    width: 4px;
+    height: 10px;
+    position: fixed;
+    left: 526px;
+    top: 640px;
+    background-color: white;
+}
+
+.white3 {
+    border: 1px solid white;
+    width: 4px;
+    height: 10px;
+    position: fixed;
+    left: 212px;
+    top: 89px;
+    background-color: white;
+}
+
+.white4 {
+    border: 1px solid white;
+    width: 4px;
+    height: 10px;
+    position: fixed;
+    left: 525px;
+    top: 89px;
+    background-color: white;
+}
